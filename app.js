@@ -3,7 +3,7 @@ var app = express()
 
 
 app.get("/", function(req, res) {
-    res.send('hello word')
+    res.send('hello word latest')
 })
 
 app.listen(80, function(req, res) {
