@@ -35,7 +35,6 @@ scripts/__pycache__/
 /.idea/.gitignore
 /src/styles/global.scss.ts
 /.idea/modules.xml
-/package-lock.json
 /.idea/scg-crm-complexsearch-rms.iml
 /.idea/vcs.xml
 
